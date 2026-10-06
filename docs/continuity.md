@@ -8,7 +8,7 @@ It is one part of the broader continuity plan.
 
 Current public wiki content is preserved separately in:
 
-- `https://github.com/xplosivoctopus/edfm-content`
+- `https://github.com/ED-Field-Manual/edfm-content`
 
 The split is intentional:
 
@@ -42,7 +42,7 @@ This repository is not a full server backup. It does not contain:
 If the live EDFM site becomes unavailable:
 
 1. Clone this repository for source/config examples and custom helper code.
-2. Clone `xplosivoctopus/edfm-content` for current public page text.
+2. Clone `ED-Field-Manual/edfm-content` for current public page text.
 3. Decide whether to build a static archive or a fresh MediaWiki install.
 4. Import templates/modules before main article content.
 5. Preserve licensing and attribution information.

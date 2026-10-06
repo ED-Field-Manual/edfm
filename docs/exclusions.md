@@ -23,4 +23,4 @@ Use placeholders in examples. Store full disaster-recovery material only in an e
 
 Current public wiki content is archived in:
 
-- `https://github.com/xplosivoctopus/edfm-content`
+- `https://github.com/ED-Field-Manual/edfm-content`
