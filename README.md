@@ -3,6 +3,11 @@
 Project-specific source files, interface assets, and configuration examples for
 [Elite Dangerous Field Manual](https://edfieldmanual.com/).
 
+## Support EDFM
+
+If you find EDFM useful and want to support its continued development and
+hosting, [support XplosivOctopus on Patreon](https://patreon.com/XplosivOctopus?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
+
 This repository intentionally does **not** include the MediaWiki application
 release, the live database, uploaded-file storage, operational backups, logs,
 private deployment notes, live server configuration, or secrets.
